@@ -11,3 +11,9 @@ div#div_id_2 {
 p.paragraph_class.number_3 {
     font-size: 24px;
 }
+
+#div_id_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
