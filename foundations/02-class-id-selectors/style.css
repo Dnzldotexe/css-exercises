@@ -3,3 +3,7 @@ p .paragraph_class {
     font: Verdana, "DejaVu Sans", sans-serif;
 }
 
+div #div_id_2 {
+    color: blue;
+    font-size: 36px;
+}
