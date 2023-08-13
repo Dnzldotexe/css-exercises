@@ -1,13 +1,13 @@
-p .paragraph_class {
+p.paragraph_class {
     background-color: pink;
     font: Verdana, "DejaVu Sans", sans-serif;
 }
 
-div #div_id_2 {
+div#div_id_2 {
     color: blue;
     font-size: 36px;
 }
 
-p .paragraph_class.number_3 {
+p.paragraph_class.number_3 {
     font-size: 24px;
 }
