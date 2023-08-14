@@ -1,6 +1,6 @@
 .paragraph_class {
     background-color: pink;
-    font: Verdana, "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #div_id_2 {
